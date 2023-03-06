@@ -9,7 +9,7 @@ Queries the device over telnet. Make sure to enable telnet for this to work.
 
 ```
 device_tracker:
-  - platform: dlink_presence
+  - platform: dva_presence
     host: 192.168.1.2 # ap
     username: admin
     password: !secret ap_password

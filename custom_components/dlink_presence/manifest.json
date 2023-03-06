@@ -1,9 +1,0 @@
-{
-  "domain": "dlink_presence",
-  "name": "D-Link Presence",
-  "documentation": "https://github.com/ayavilevich/homeassistant-dlink-presence",
-  "issue_tracker": "https://github.com/ayavilevich/homeassistant-dlink-presence/issues",
-  "requirements": [],
-  "codeowners": ["@ayavilevich"],
-  "version": "1.1.0"
-}

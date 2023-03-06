@@ -1,0 +1,9 @@
+{
+  "domain": "dva_presence",
+  "name": "D-Link DVA-6800z Presence",
+  "documentation": "https://github.com/AntonioDiSalvo/homeassistant-dlink-presence",
+  "issue_tracker": "https://github.com/AntonioDiSalvo/homeassistant-dlink-presence/issues",
+  "requirements": [],
+  "codeowners": ["@ads"],
+  "version": "0.0.1"
+}
